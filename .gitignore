@@ -155,3 +155,4 @@ cython_debug/
 # custom bot stuff
 jsonfiles/
 wordfilters/
+database.db
